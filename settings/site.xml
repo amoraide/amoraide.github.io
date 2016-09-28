@@ -10,17 +10,17 @@
 	</link>
     <link>
         <id>2</id>
-        <text>Github Page</text>
-        <options/>
-        <url>https://amoraide.github.io</url>
-    </link>
-    <link>
-        <id>3</id>
         <text>Github Repositories</text>
         <options>
             <popup>true</popup>
         </options>
         <url>http://www.github.com/amoraide</url>
+    </link>
+    <link>
+        <id>3</id>
+        <text>Github Page</text>
+        <options/>
+        <url>https://amoraide.github.io</url>
     </link>
 	<link>
 		<id>4</id>
