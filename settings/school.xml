@@ -1,0 +1,16 @@
+<education>
+  <school>
+    <id>3</id>
+    <school-name>Brock University</school-name>
+    <start>0915</start>
+    <end>1518</end>
+    <user>ar14rk</user>
+  </school>
+  <school>
+    <id>2</id>
+    <school-name>Sheridan College</school-name>
+    <start>0112</start>
+    <end>1214</end>
+    <user>romualdo</user>
+  </school>
+</education>
