@@ -1,5 +1,4 @@
 <site>
-  <ref>3</ref>
   <links>
 	<link>
 		<id>1</id>
@@ -9,14 +8,28 @@
         </options>
 		<url>http://ca.linkedin.com/in/angeloromualdo</url>
 	</link>
+    <link>
+        <id>2</id>
+        <text>Github Page</text>
+        <options/>
+        <url>https://amoraide.github.io</url>
+    </link>
+    <link>
+        <id>3</id>
+        <text>Github Repositories</text>
+        <options>
+            <popup>true</popup>
+        </options>
+        <url>http://www.github.com/amoraide</url>
+    </link>
 	<link>
-		<id>2</id>
+		<id>4</id>
         <options/>
 		<text>Sheridan College</text>
 		<url>http://mobile.sheridanc.on.ca/~romualdo</url>
 	</link>
 	<link>
-		<id>3</id>
+		<id>5</id>
         <options/>
 		<text>Brock University</text>
 		<url>http://www.cosc.brocku.ca/~ar14rk/</url>
