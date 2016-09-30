@@ -34,5 +34,12 @@
 		<text>Brock University</text>
 		<url>http://www.cosc.brocku.ca/~ar14rk/</url>
 	</link>
+    <link>
+        <id>6</id>
+        <options/>
+        <text>Brock Test Bed</text>
+        <url>http://www.cosc.brocku.ca/~ar14rk/test_bed</url>
+    </link>
+
   </links>
 </site>
